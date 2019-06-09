@@ -1,5 +1,5 @@
 # Web-Crawler
-A web-crawler to scrape data from apps google play store and get the following attributes - 
+A web-crawler to scrape data from apps on google play store and get the following attributes - 
 
 1) Name
 2) App Group
